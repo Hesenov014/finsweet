@@ -1,0 +1,13 @@
+
+ .navbar{
+     display: flex;
+     background-color: blue;
+     justify-content: space-between;
+ }
+
+ .link {
+    color: #111112;
+    display: flex;
+    justify-content: space-between;
+ }
+
